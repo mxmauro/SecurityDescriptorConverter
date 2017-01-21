@@ -1,0 +1,12 @@
+.svn/
+*.~*
+*.suo
+*.ncb
+*.exp
+*.user
+*.sdf
+*.log
+*.obj
+*.ilk
+/bin/
+/obj/
